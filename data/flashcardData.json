@@ -1,0 +1,57 @@
+{
+    "data": {
+        "title": "Autumn Words",
+        "cards": [
+            {
+                "english": "It is Fall",
+                "anishinaabemowin": "Dagwaagi",
+                "hint": "Dagwaagi = Fall (season)"
+            },
+            {
+                "english": "The leaves are turning color",
+                "anishinaabemowin": "Waabagaa",
+                "hint": "Waa- = Something is happening, -bagaa = leaves turn color"
+            },
+            {
+                "english": "Forest",
+                "anishinaabemowin": "Mtigwaakiing",
+                "hint": "Mtigwaak = Forest, -iing = locative suffix (in the forest)"
+            },
+            {
+                "english": "We will go hunting today",
+                "anishinaabemowin": "G’wii oo giiwsemi nangwa",
+                "hint": "G’wii = We will, -giiwsemi = go hunting, nangwa = today"
+            },
+            {
+                "english": "I see Mushrooms",
+                "anishinaabemowin": "N’da waabndaanan",
+                "hint": "N’da = I, waabndaanan = see them (mushrooms)"
+            },
+            {
+                "english": "Should I eat them?",
+                "anishinaabemowin": "N’daa miijinan na?",
+                "hint": "N’daa = I should, miijinan = eat them, na? = question particle"
+            },
+            {
+                "english": "Yes",
+                "anishinaabemowin": "Enh!",
+                "hint": "Enh = Yes"
+            },
+            {
+                "english": "Rice",
+                "anishinaabemowin": "Manoomin",
+                "hint": "Manoomin = Wild rice"
+            },
+            {
+                "english": "I like (the taste of) Onions",
+                "anishinaabemowin": "Zhigaagwanzhiik N’mnopwaag",
+                "hint": "Zhigaagwanzhiik = onions, N’mnopwaag = I like the taste of"
+            },
+            {
+                "english": "I like soup",
+                "anishinaabemowin": "N’bishigendaan nboop",
+                "hint": "N’bishigendaan = I like, nboop = soup"
+            }
+        ]
+    }
+}
